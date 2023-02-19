@@ -4,13 +4,10 @@ import 'package:shop_app/Control/Consistent/Variables.dart';
 import 'package:shop_app/Control/Cubit/HomeCubit.dart';
 import 'package:shop_app/Control/Network/Local/CacheHelper.dart';
 import 'package:shop_app/Control/Network/Remote/dio_helaper.dart';
-import 'package:shop_app/Modules/HomePage.dart';
-import 'package:shop_app/Modules/credit.dart';
 import 'package:shop_app/Modules/layout.dart';
 import 'package:shop_app/View/LoginPage.dart';
 import 'package:shop_app/View/OnBordingPage.dart';
-import 'package:shop_app/View/RegisterPage.dart';
-import 'package:shop_app/credit_card.dart';
+
 
 
 import 'Control/Styles/Themes.dart';
